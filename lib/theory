@@ -1,0 +1,44 @@
+/*
+Flutter is an open-source UI software development kit created by Google.
+It is used to develop cross platform applications from a single codebase for any web browser,
+ Fuchsia, Android, iOS, Linux, macOS, and Windows. First described in 2015, Flutter was released in May 2017.
+ Native app development compared to cross-platform app development
+ Coding an application for one specific platform, such as iOS, is called native app development. By contrast, cross-platform app development is building an application for multiple platforms with a single codebase.
+
+ Native app development
+ Because developers code for a specific platform in native app development,
+ they have full access to native device functionality.
+ This generally leads to higher performance and speed compared to cross-platform app development.
+
+ On the other hand, if you want to launch an application on multiple platforms,
+  native app development requires more code and more developers.
+   In addition to these expenses, native app development can make it harder to launch on different platforms
+   at the same time with a consistent user experience.
+    This is where cross-platform app development frameworks like Flutter can be useful.
+
+ Cross-platform app development
+ Cross-platform app development allows developers to use one programming language
+ and one codebase to build an application for multiple platforms.
+ If you’re releasing an application for multiple platforms,
+ cross-platform app development is less costly and time-consuming than native app development.
+
+ This process also lets developers create a more consistent experience for users across platforms.
+
+ This approach can have drawbacks compared to native app development,
+ including limited access to native device functionality.
+  However, Flutter has features that make cross-platform app development smoother and highly performant.
+
+ The advantages of Flutter
+ Here are some ways that Flutter stands out as a cross-platform development framework:
+
+ Close-to-native performance. Flutter uses the programming language Dart and compiles into machine code.
+ Host devices understand this code, which ensures a fast and effective performance.
+ Fast, consistent, and customizable rendering.
+ Instead of relying on platform-specific rendering tools,
+ Flutter uses Google’s open-source Skia graphic library to render UI.
+ This provides users with consistent visuals no matter what platform they use to access an application.
+ Developer-friendly tools.
+ Google built Flutter with an emphasis on ease-of-use. With tools like hot reload,
+ developers can preview what code changes will look like without losing state.
+  Other tools like the widget inspector make it easy to visualize and solve issues with UI layouts.
+*/
